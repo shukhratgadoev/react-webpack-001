@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #333333;
+}
+
+
+header {
+    color: #fff;
+    height: 70px;
+    user-select: none;
+}
+
+footer {
+    height: 50px;
+}
+
+main {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
